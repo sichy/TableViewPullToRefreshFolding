@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableViewPullToRefreshFolding", "TableViewPullToRefreshFolding\TableViewPullToRefreshFolding.csproj", "{B393995C-523E-4A5A-BC56-D4126C628975}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B393995C-523E-4A5A-BC56-D4126C628975}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{B393995C-523E-4A5A-BC56-D4126C628975}.Debug|iPhone.Build.0 = Debug|iPhone
+		{B393995C-523E-4A5A-BC56-D4126C628975}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{B393995C-523E-4A5A-BC56-D4126C628975}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{B393995C-523E-4A5A-BC56-D4126C628975}.Release|iPhone.ActiveCfg = Release|iPhone
+		{B393995C-523E-4A5A-BC56-D4126C628975}.Release|iPhone.Build.0 = Release|iPhone
+		{B393995C-523E-4A5A-BC56-D4126C628975}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{B393995C-523E-4A5A-BC56-D4126C628975}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = TableViewPullToRefreshFolding\TableViewPullToRefreshFolding.csproj
+	EndGlobalSection
+EndGlobal
